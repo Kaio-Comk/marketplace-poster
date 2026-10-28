@@ -1,0 +1,17 @@
+~
+*.env
+/browser_profile
+/itens
+*.exe
+
+# Estado e logs locais (horarios, falhas, links dos anuncios)
+estado.json
+estado.json.tmp
+daemon.log
+*.log
+*.log.err
+pendentes.csv
+.codex
+*.xlsx
+*.xls
+Fotos/
